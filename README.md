@@ -1,2 +1,3 @@
 # cat
-![alt text](https://github.com/Henning-Kuenne/cat/cat-hq.png)
+
+![cat](https://github.com/Henning-Kuenne/cat/blob/main/cat-hq.png)
